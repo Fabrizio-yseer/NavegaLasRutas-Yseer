@@ -2,6 +2,8 @@
   "name": "navega-las-rutas",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://fabrizio-yseer.github.io/NavegaLasRutas-Yseer",
+
   "scripts": {
   "dev": "vite",
   "build": "vite build",
